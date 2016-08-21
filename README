@@ -1,0 +1,5 @@
+To run the tests, simply do
+./run_tests
+
+or do:
+python -m unittest discover
